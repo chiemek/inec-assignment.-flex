@@ -116,8 +116,10 @@ hr {
 footer {
   display: flex;
   gap: 3rem;
-  padding-block: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 10rem;
   padding-inline: 7rem;
+  height: 40vh;
 }
 
 footer nav {
